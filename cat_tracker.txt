@@ -1,0 +1,20 @@
+1. Attach gps device to collar on all four cats
+
+2. Map out a graphical representation of house
+
+3. Map graphical representation to real-world location coordinates
+
+4. Create webapp that uses gps devices to locate cats and then puts a
+    coordinating image representing each cat showing their location
+    in the house
+
+5. Webapp has user / authentication established so only people I feel
+    safe sharing this information with can view the house / cat locs
+
+6. Now when one of the cats has mysteriously vanished we can identify
+    whether or not they have escaped the house or are just passed out
+    hardcore in some special hiding spot
+
+7. Abstract the code enough so the code is public but the personal details
+    are not.  PERHAPS EVEN other people can attach gps devices to their
+    animals and have equal entertainment
